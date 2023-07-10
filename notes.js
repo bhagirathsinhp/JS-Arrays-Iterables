@@ -427,7 +427,7 @@ console.log(maxIndex);
 -----------------------------------------------------------------------------------------------------
 
 
-// 10. .inclues()
+// 10. .includes()
 
 // This method is used on primitive values..
 // It shows if the item inside the array is there - meaning the value passed inside () is there in the array or not.
